@@ -7,7 +7,7 @@
 		"uuidString": "36640F46-61EE-415D-916B-316F34B1A672"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -26,6 +26,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/mailerlite.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/mailerlite-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/normalize.css": {
 		"aP": 1,
 		"bl": 0,
@@ -39,6 +49,7 @@
 	"\/assets\/originals\/iStock_000062053532_Illustration\/HiRes.jpg": {
 		"ft": 16384,
 		"iS": 4371108,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/originals\/iStock_000062053532_Illustration\/HiRes.jpg",
 		"oF": 0,
@@ -56,6 +67,7 @@
 	"\/assets\/originals\/iStock_000082641957_Illustration\/HiRes.jpg": {
 		"ft": 16384,
 		"iS": 2975329,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/originals\/iStock_000082641957_Illustration\/HiRes.jpg",
 		"oF": 0,
@@ -87,6 +99,16 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/assets\/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/assets\/styles.css": {
 		"aP": 1,
@@ -173,6 +195,7 @@
 	"\/screenshots\/01-003.jpg": {
 		"ft": 16384,
 		"iS": 99372,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/01-003.jpg",
 		"oF": 0,
@@ -183,6 +206,7 @@
 	"\/screenshots\/01-003A.jpg": {
 		"ft": 16384,
 		"iS": 16715,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/01-003A.jpg",
 		"oF": 0,
@@ -193,6 +217,7 @@
 	"\/screenshots\/01-003B.jpg": {
 		"ft": 16384,
 		"iS": 20336,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/01-003B.jpg",
 		"oF": 0,
@@ -203,6 +228,7 @@
 	"\/screenshots\/01-003C.jpg": {
 		"ft": 16384,
 		"iS": 58026,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/01-003C.jpg",
 		"oF": 0,
@@ -213,6 +239,7 @@
 	"\/screenshots\/01-003D.jpg": {
 		"ft": 16384,
 		"iS": 21203,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/01-003D.jpg",
 		"oF": 0,
@@ -223,6 +250,7 @@
 	"\/screenshots\/01-003E.jpg": {
 		"ft": 16384,
 		"iS": 26828,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/01-003E.jpg",
 		"oF": 0,
@@ -233,6 +261,7 @@
 	"\/screenshots\/01-004.jpg": {
 		"ft": 16384,
 		"iS": 50369,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/01-004.jpg",
 		"oF": 0,
@@ -254,6 +283,7 @@
 	"\/screenshots\/01-006.jpg": {
 		"ft": 16384,
 		"iS": 60952,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/01-006.jpg",
 		"oF": 0,
@@ -286,6 +316,7 @@
 	"\/screenshots\/01-009.jpg": {
 		"ft": 16384,
 		"iS": 57789,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/01-009.jpg",
 		"oF": 0,
@@ -408,6 +439,7 @@
 	"\/screenshots\/02-008.jpg": {
 		"ft": 16384,
 		"iS": 34872,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/02-008.jpg",
 		"oF": 0,
@@ -429,6 +461,7 @@
 	"\/screenshots\/02-012.jpg": {
 		"ft": 16384,
 		"iS": 30153,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/02-012.jpg",
 		"oF": 0,
@@ -494,6 +527,7 @@
 	"\/screenshots\/circlegallery.jpg": {
 		"ft": 16384,
 		"iS": 39303,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/circlegallery.jpg",
 		"oF": 0,
@@ -512,6 +546,7 @@
 	"\/screenshots\/GHcoverpage.jpg": {
 		"ft": 16384,
 		"iS": 30679,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/GHcoverpage.jpg",
 		"oF": 0,
@@ -522,6 +557,7 @@
 	"\/screenshots\/gridjam.jpg": {
 		"ft": 16384,
 		"iS": 60066,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/gridjam.jpg",
 		"oF": 0,
@@ -540,6 +576,7 @@
 	"\/screenshots\/jazzposter.jpg": {
 		"ft": 16384,
 		"iS": 37517,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/jazzposter.jpg",
 		"oF": 0,
@@ -550,6 +587,7 @@
 	"\/screenshots\/mondrian.jpg": {
 		"ft": 16384,
 		"iS": 41951,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/mondrian.jpg",
 		"oF": 0,
@@ -568,6 +606,7 @@
 	"\/screenshots\/responsivemondrian.jpg": {
 		"ft": 16384,
 		"iS": 41891,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/screenshots\/responsivemondrian.jpg",
 		"oF": 0,
@@ -591,7 +630,8 @@
 	"creationDate": 542479848,
 	"displayValue": "layoutlandplaceholder",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-karate"
+	"iconImageName": "meme-karate",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2394,6 +2434,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
