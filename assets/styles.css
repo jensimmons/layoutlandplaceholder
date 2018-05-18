@@ -25,14 +25,14 @@ h1 {
   grid-row: 2 / 3;
 }
 .youtube-page {
-  grid-row: 3 / 4;
-  margin-bottom: 1.2rem;
+  grid-row: 5 / 6;
+  margin-bottom: 2rem;
 }
 .newsletter-signup {
-  grid-row: 4 / 5;
+  grid-row: 3 / 4;
 }
 .twitter {
-  grid-row: 5 / 6;
+  grid-row: 4 / 5;
 }
 
 
