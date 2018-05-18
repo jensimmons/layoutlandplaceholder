@@ -39,16 +39,38 @@
                     </div>
                     <div class="ml-form-fieldRow ml-last-item">
                       <div class="ml-field-group ml-field-name">
-                        <input type="text" class="form-control" data-inputmask="" name="fields[name]" placeholder="Name (optional)">
+                        <input type="text" class="form-control" data-inputmask="" name="fields[name]" placeholder="Full Name (optional)">
                       </div>
+                    </div>
+                  </div>
+                  <div class="ml-form-embedPermissions" style="">
+                    <div class="ml-form-embedPermissionsContent default">
+                      <p><span style="font-size: 12px; color: #2a9493;">We will only use your email address to send you this newsletter. If you'd like to receive it, check the box:</span></p>
+                      <div class="ml-form-embedPermissionsOptions">
+                        <div class="ml-form-embedPermissionsOptionsCheckbox">
+                          <label>
+        
+                                <input type="checkbox" name="gdpr[]" value="Yes, I want this email" xp-if="gdpr.title"> 
+        
+                                <div class="label-description">Yes, I want this email</div>
+        
+                              </label>
+                          <div class="description" xp-if="gdpr.description"></div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="ml-form-embedMailerLite-GDPR">
+                      <p>We use MailerLite as our marketing automation platform. By clicking below to submit this form, you acknowledge that the information you provide will be transferred to MailerLite for processing in accordance with their <a href="https://www.mailerlite.com/privacy-policy" target="_blank">Privacy Policy</a> and <a href="https://www.mailerlite.com/terms-of-service" target="_blank">Terms of Service</a>.</p>
                     </div>
                   </div>
                   <input type="hidden" name="ml-submit" value="1">
                   <div class="ml-form-embedSubmit">
                     <button type="submit" class="primary">Subscribe</button>
                     <button disabled="disabled" style="display: none;" type="button" class="loading btn btn-block">
-                      <img src="https://static.mailerlite.com/images/rolling.gif" width="20" height="20" style="width: 20px; height: 20px; margin: 0 auto; display: block;" border="0">
-                    </button>
+        
+                          <img src="https://static.mailerlite.com/images/rolling.gif" width="20" height="20" style="width: 20px; height: 20px; margin: 0 auto; display: block;" border="0">
+        
+                        </button>
                   </div>
                 </form>
               </div>
